@@ -29,6 +29,6 @@ and be known for my skills and intellect.
 | `Hello.kt` | Kotlin |
 | `hello.asm` | Assembly (x86-64) |
 | `hello.html` | HTML |
-| `hello.css` + `hello-css.html` | CSS |
+| `hello.css`  | CSS |
 
 Each file has a comment at the top with the command to run it.
