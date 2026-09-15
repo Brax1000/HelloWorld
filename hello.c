@@ -1,7 +1,7 @@
 /* C — compile & run:  gcc hello.c -o hello && ./hello */
 #include <stdio.h>
 
-int main(void)
+int main(void)   // This is actually optional lol
 {
     printf("Hello, World!\n");
     printf("I'm Braxten Orline Urdelas!\n");
