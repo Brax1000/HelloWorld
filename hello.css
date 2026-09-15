@@ -1,0 +1,33 @@
+/* CSS — CSS cannot run on its own, it only styles HTML.
+   Open hello-css.html in a browser to see this file at work.
+   Here the four lines are supplied by CSS itself, using generated content. */
+
+body {
+  font-family: "Consolas", monospace;
+  background: #1e1e2e;
+  color: #cdd6f4;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+  margin: 0;
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+.message::before {
+  content:
+    "Hello, World!\A"
+    "I'm Braxten Orline Urdelas!\A"
+    "Someday I will become a successful Professional\A"
+    "and be known for my skills and intellect.";
+  white-space: pre;      /* \A becomes a real line break */
+}
+
+.message::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  margin-top: 1rem;
+  background: linear-gradient(90deg, #89b4fa, #f5c2e7);
+}
