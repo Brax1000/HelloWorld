@@ -1,4 +1,4 @@
-// Kotlin — compile & run:  kotlinc Hello.kt -include-runtime -d hello.jar && java -jar hello.jar
+// Kotlin 
 fun main() {
     println("Hello, World!")
     println("I'm Braxten Orline Urdelas!")
