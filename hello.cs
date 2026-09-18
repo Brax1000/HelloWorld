@@ -1,4 +1,4 @@
-// C# — compile & run:  dotnet run   (or: csc hello.cs && ./hello.exe)
+// C# 
 using System;
 
 class Program
