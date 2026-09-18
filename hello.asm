@@ -1,7 +1,3 @@
-; Assembly (x86-64, NASM syntax, Linux)
-; Build & run:  nasm -f elf64 hello.asm && ld hello.o -o hello && ./hello
-; Note: assembly is tied to the CPU and OS, so this exact file is for 64-bit Linux.
-
 section .data
     msg:
         db "Hello, World!", 10
