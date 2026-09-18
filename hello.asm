@@ -1,4 +1,4 @@
-section .data
+ section .data
     msg:
         db "Hello, World!", 10
         db "I'm Braxten Orline Urdelas!", 10
