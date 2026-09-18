@@ -1,4 +1,4 @@
-// C++ — compile & run:  g++ hello.cpp -o hello && ./hello
+// C++
 #include <iostream>
 
 int main()
