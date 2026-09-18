@@ -1,7 +1,3 @@
-/* CSS — CSS cannot run on its own, it only styles HTML.
-   Open hello-css.html in a browser to see this file at work.
-   Here the four lines are supplied by CSS itself, using generated content. */
-
 body {
   font-family: "Consolas", monospace;
   background: #1e1e2e;
@@ -20,7 +16,7 @@ body {
     "I'm Braxten Orline Urdelas!\A"
     "Someday I will become a successful Professional\A"
     "and be known for my skills and intellect.";
-  white-space: pre;      /* \A becomes a real line break */
+  white-space: pre;      
 }
 
 .message::after {
