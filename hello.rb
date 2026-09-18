@@ -1,4 +1,4 @@
-# Ruby — run:  ruby hello.rb
+# Ruby :>
 puts "Hello, World!"
 puts "I'm Braxten Orline Urdelas!"
 puts "Someday I will become a successful Professional"
