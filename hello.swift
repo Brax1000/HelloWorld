@@ -1,4 +1,4 @@
-// Swift — run:  swift hello.swift
+
 print("Hello, World!")
 print("I'm Braxten Orline Urdelas!")
 print("Someday I will become a successful Professional")
