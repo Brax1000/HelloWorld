@@ -1,5 +1,3 @@
-// Java — compile & run:  javac HelloWorld.java && java HelloWorld
-// The file name MUST match the public class name.
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
