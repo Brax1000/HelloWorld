@@ -1,4 +1,4 @@
-# Python — run:  python hello.py
+
 print("Hello, World!")
 print("I'm Braxten Orline Urdelas!")
 print("Someday I will become a successful Professional")
