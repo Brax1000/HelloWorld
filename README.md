@@ -1,6 +1,6 @@
 # Hello, World! in 14 Programming Languages
 
-By **Braxten Orline Urdelas** — 1st Year BSIT
+By **Braxten Orline Urdelas** — BSIT Freshman
 
 A small practice project. Every file in this folder prints the same
 four lines, just written in a different programming language:
